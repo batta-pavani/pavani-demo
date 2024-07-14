@@ -1,3 +1,3 @@
 # pavani-demo
-This is my first git repository
-author:pavani
+This is my first git repository.
+author-pavani
